@@ -1,0 +1,61 @@
+{
+  "TypesOfRice": [
+
+
+    "name"
+    :
+    "Basumathi",
+    "Weight"
+    :
+    23,
+    "Price"
+    :
+    200
+  ],
+  {
+    "name": "Basumathi",
+    "Weight": 23,
+    "Price": 200
+  },
+  {
+    "name": "Basumathi",
+    "Weight": 23,
+    "Price": 200
+  }
+
+], "TypesOfWheat": [
+
+  {
+    "name": "Wheat1",
+    "Weight": 5,
+    "Price": 100
+  },
+  {
+    "name": "Wheat2",
+    "Weight": 6,
+    "Price": 50
+  },
+  {
+    "name": "Wheat3",
+    "Weight": 10,
+    "Price": 40
+  },
+] "TypesOfPulses": [
+
+  {
+    "name": "pulses1",
+    "Weight": 5,
+    "Price": 100
+  },
+  {
+    "name": "Pulses2",
+    "Weight": 6,
+    "Price": 50
+  },
+  {
+    "name": "Pulses3",
+    "Weight": 10,
+    "Price": 40
+  }
+]
+}

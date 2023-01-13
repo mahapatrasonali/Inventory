@@ -1,0 +1,11 @@
+C:\Users\SONALI MAHAPATRA\237\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+C:\Users\SONALI MAHAPATRA\237\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe
+C:\Users\SONALI MAHAPATRA\237\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.pdb
+C:\Users\SONALI MAHAPATRA\237\InventoryManagement\InventoryManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SONALI MAHAPATRA\237\InventoryManagement\InventoryManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SONALI MAHAPATRA\237\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.AssemblyReference.cache
+C:\Users\SONALI MAHAPATRA\237\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\SONALI MAHAPATRA\237\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\SONALI MAHAPATRA\237\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CopyComplete
+C:\Users\SONALI MAHAPATRA\237\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.exe
+C:\Users\SONALI MAHAPATRA\237\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb
